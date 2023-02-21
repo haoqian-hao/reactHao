@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haoqian-hao/reactHao/static/css/main.073c9b0a.css",
+    "main.js": "/haoqian-hao/reactHao/static/js/main.14ffe982.js",
+    "static/js/787.1f013cd5.chunk.js": "/haoqian-hao/reactHao/static/js/787.1f013cd5.chunk.js",
+    "index.html": "/haoqian-hao/reactHao/index.html",
+    "main.073c9b0a.css.map": "/haoqian-hao/reactHao/static/css/main.073c9b0a.css.map",
+    "main.14ffe982.js.map": "/haoqian-hao/reactHao/static/js/main.14ffe982.js.map",
+    "787.1f013cd5.chunk.js.map": "/haoqian-hao/reactHao/static/js/787.1f013cd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.14ffe982.js"
+  ]
+}
