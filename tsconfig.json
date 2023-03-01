@@ -18,7 +18,12 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "paths": {
+      "plotly.js": [
+          "../node_modules/plotly.js/lib/core.js"
+      ]
+    }
   },
   "include": [
     "src"
